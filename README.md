@@ -1,0 +1,1 @@
+一个Android的蓝牙Demo，支持经典蓝牙和BLE混合扫描
